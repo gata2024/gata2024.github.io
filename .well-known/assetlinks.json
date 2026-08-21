@@ -8,5 +8,25 @@
         "6C:47:9D:5B:E4:B8:06:AB:96:F8:F2:1F:30:A7:77:8E:24:99:D2:9D:41:F9:E4:A0:A7:FC:87:0B:B2:56:72:A5"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.gata.updater.ksp",
+      "sha256_cert_fingerprints": [
+        "6C:47:9D:5B:E4:B8:06:AB:96:F8:F2:1F:30:A7:77:8E:24:99:D2:9D:41:F9:E4:A0:A7:FC:87:0B:B2:56:72:A5"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.gata.updater.danway",
+      "sha256_cert_fingerprints": [
+        "6C:47:9D:5B:E4:B8:06:AB:96:F8:F2:1F:30:A7:77:8E:24:99:D2:9D:41:F9:E4:A0:A7:FC:87:0B:B2:56:72:A5"
+      ]
+    }
   }
 ]
